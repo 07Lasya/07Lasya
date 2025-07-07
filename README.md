@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Lasya Eadara!
 
+🎓 I'm a 3rd-year Computer Science student at IIIT Guwahati (Batch of 2027).  
+💻 Currently exploring the world of **AI, Cybersecurity**, and **Open Source**.
+
+---
+
+### 🔭 I’m currently working on:
+- Preparing for **GirlScript Summer of Code 2025** 💪
+- Building foundational projects in Python & Java
+- Diving deeper into **DSA**, **DBMS**, and **Operating Systems**
+
+---
+
+### 💡 Tech Stack
+- 💻 Languages: `C`, `Python`, `Java`, `SQL`
+- 🛠️ Tools: Git, GitHub, VS Code  
+- 📚 Concepts: DSA, DBMS, OS, Computer Architecture  
+- 🌱 Learning: AI Tools, Cybersecurity Basics, Open Source Collaboration  
+
+---
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lasya-eadara-b16138291)
+
+---
+
+### 📈 GitHub Stats (Optional — you can add later)
+<!-- GitHub Readme Stats -->
 <!--
-**07Lasya/07Lasya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Lasya's GitHub stats](https://github-readme-stats.vercel.app/api?username=07Lasya&show_icons=true&theme=radical)
 -->
+
+---
+
+✨ Open to learning, building, and contributing! Let’s grow together.  
