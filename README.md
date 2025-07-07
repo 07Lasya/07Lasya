@@ -25,12 +25,4 @@
 
 ---
 
-### 📈 GitHub Stats
-<!-- GitHub Readme Stats -->
-<!--
-![Lasya's GitHub stats](https://github-readme-stats.vercel.app/api?username=07Lasya&show_icons=true&theme=radical)
--->
-
----
-
 ✨ Open to learning, building, and contributing! Let’s grow together.  
