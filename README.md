@@ -2,7 +2,7 @@
 
 🎓 Computer Science Undergraduate at IIIT Guwahati (2023–2027)  
 💻 Passionate about open-source, problem-solving, and building impactful projects  
-🚀 GSSoC'25 Contributor Aspirant | Python • Java • AI • Web
+🚀 GSSoC'25 Contributor | Python • Java • AI • Web
 
 ---
 
