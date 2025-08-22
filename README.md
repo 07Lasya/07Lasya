@@ -1,57 +1,64 @@
-# 👋 Hi, I'm Lasya Eadara!
+# ✨ Lasya (Sai Raghavi) Eadara  
 
-🎓 Computer Science Undergraduate at IIIT Guwahati (2023–2027)  
-💻 Passionate about open-source, problem-solving, and building impactful projects  
-🚀 GSSoC'25 Contributor | Python • Java • AI • Web
-
----
-
-## 🌱 About Me
-
-- 🔭 Currently working on Java and Python-based desktop apps  
-- 🤝 Exploring beginner-friendly open-source contributions for GSSoC  
-- 💬 Ask me about Java, Swing, JDBC, DSA, and Python scripting  
-- 🌐 Learning AI tools, Excel automation, and REST APIs
+**She/Her**  
+🎓 Junior Computer Science Engineer @ IIIT Guwahati  
+💡 Exploring **AI & Cybersecurity** | Open Source Contributor | Problem Solver | Innovation Driven  
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages:** Java, Python, C, SQL  
-- **Tools:** Git, GitHub CLI, MySQL, Excel, VBA  
-- **Frameworks:** Swing, JDBC, Flask (basic), REST APIs  
-- **AI/Automation:** ChatGPT, BI tools, Excel-AI integrations
-
----
-
-## 📌 Projects
-
-### 🛰️ [Lunar Lander AI Agent](https://github.com/07Lasya/Lunar-Lander-AI-Agent) (Mar 2025)
-- Hybrid optimization using **PSO + Tabu Search**  
-- 87% success rate in 1000+ simulations  
-- Reinforcement learning + algorithmic control  
-
-### 🏥 [Hospital Management System](https://github.com/07Lasya/Hospital-Management-System) (Jan 2025)
-- GUI for billing, appointments, and room allocation  
-- Tech: Java, Swing, MySQL (via JDBC)
+## 🚀 About Me  
+- 🎓 Currently pursuing **B.Tech in CSE** at *Indian Institute of Information Technology, Guwahati (2023–2027)*  
+- 🔭 Contributing to **open-source** at [GirlScript Summer of Code 2025](https://gssoc.girlscript.tech/)  
+- 🌱 Learning and building in **AI, Backend Development, and Cybersecurity**  
+- 💻 Strong foundation in **Data Structures, Algorithms, DBMS, and Operating Systems**  
+- ✨ Passionate about **innovation, problem-solving, and community-driven tech**  
 
 ---
 
-## 📚 Certifications
+## 🛠️ Tech Stack  
 
-- Google Crash Course on Python – Coursera  
-- Excel Automation using AI – OfficeMaster  
-- AI Tools Workshop – Be10x
+**Languages:**  
+`Python` | `Java` | `C` | `SQL`  
+
+**Frameworks & Tools:**  
+`Flask (basic)` | `Swing` | `JDBC` | `REST APIs` | `Postman` | `Streamlit`  
+
+**Databases:**  
+`MySQL` | `Excel` | `VBA`  
+
+**Version Control & Cloud:**  
+`Git & GitHub` | `GitHub CLI` | `Google Cloud (Basic)`  
+
+**AI & Productivity:**  
+`ChatGPT` | `Generative AI` | `AI Debugging` | `Automation`  
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects  
 
-![Lasya's GitHub stats](https://github-readme-stats.vercel.app/api?username=07Lasya&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=07Lasya&layout=compact)
+🔹 [**Hospital Management System**](https://github.com/07Lasya/hospital-management-system) – *Java, Swing, JDBC, MySQL*  
+Comprehensive GUI system for hospital operations (appointments, billing, room allocation) with optimized DB queries and modular design.  
+
+🔹 [**Lunar Lander AI Agent**](https://github.com/07Lasya/lunar-lander-ai-agent) – *Python, PSO, Tabu Search*  
+Hybrid AI agent with **87% success rate** across 1000+ simulations using optimization + reinforcement learning principles.  
 
 ---
 
-## 🔗 Let's Connect
+## 🎯 Achievements & Certifications  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lasya-eadara-b16138291)
+🏆 Postman API Fundamentals Student Expert – *Postman (2025)*  
+🏆 Excel Automation Using AI – *OfficeMaster (2025)*  
+🏆 AI Tools & ChatGPT Workshop – *Be10x (2025)*  
+🏆 Crash Course on Python – *Google (Coursera, 2024)*  
+
+---
+
+## 🌐 Connect with Me  
+
+- 📩 Email: **lasyaeadara@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lasya-eadara-b16138291/)  
+- 🖥️ [GitHub](https://github.com/07Lasya)  
+
+---
+
+✨ *"Driven by curiosity, powered by innovation, and inspired to build solutions that make an impact."*  
