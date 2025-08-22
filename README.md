@@ -1,4 +1,4 @@
-# ✨ Lasya (Sai Raghavi) Eadara  
+# ✨ Lasya Eadara  
 
 **She/Her**  
 🎓 Junior Computer Science Engineer @ IIIT Guwahati  
