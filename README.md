@@ -55,7 +55,6 @@ Hybrid AI agent with **87% success rate** across 1000+ simulations using optimiz
 
 ## 🌐 Connect with Me  
 
-- 📩 Email: **lasyaeadara@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lasya-eadara-b16138291/)  
 - 🖥️ [GitHub](https://github.com/07Lasya)  
 
